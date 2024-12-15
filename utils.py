@@ -1,3 +1,3 @@
-from todo.database import init_db
+from database import init_db
 
 init_db()
